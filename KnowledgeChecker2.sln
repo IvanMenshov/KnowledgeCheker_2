@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowledgeChecker2", "KnowledgeChecker\KnowledgeChecker2.csproj", "{DEA907EB-9B3D-45FB-8B97-6F3BD08025D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA907EB-9B3D-45FB-8B97-6F3BD08025D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA907EB-9B3D-45FB-8B97-6F3BD08025D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA907EB-9B3D-45FB-8B97-6F3BD08025D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA907EB-9B3D-45FB-8B97-6F3BD08025D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BF0FA9B-92A0-4413-BEC4-A1D20E77DCDE}
+	EndGlobalSection
+EndGlobal
